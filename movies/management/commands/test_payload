@@ -1,0 +1,28 @@
+{
+    "userId": 32778,
+    "movieId": 2,
+    "rating": 3.0,
+    "timestamp": "2006-05-17 12:27:08"
+}
+
+{
+    "text": "Dogs",
+    "timestamp": "2006-05-17 12:27:08",
+    "userId": 32778,
+    "movieId": 2
+}
+
+
+{
+    "movieId": 3,
+    "title": "Grumpier Old Men (1995)",
+    "genres": "Comedy|Romance",
+    "tags": "funny, best friend, duringcreditsstinger, fishing, old man, sequel fever, moldy, old, sequel, NO_FA_GANES, Jack Lemmon, Walter Matthau, grun running, comedinha de velhinhos engraÃƒÂ§ada, old people that is actually funny, Howard Deutch, CLV, sequel, comedinha de velhinhos engraÃ§ada, moldy, old, Ann Margaret, Burgess Meredith, Daryl Hannah, fishing, good soundtrack, Jack Lemmon, Sophia Loren, Walter Matthau",
+    "average_rating": 3.15
+}
+
+{
+    "movieId": 489789,
+    "title": "Grumpier Old Men (1995)",
+    "genres": "Comedy|Action",
+}
