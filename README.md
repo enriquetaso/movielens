@@ -80,3 +80,8 @@ GET http://0.0.0.0:8000/api/movies/?tags=japan
 ```bash
 GET http://0.0.0.0:8000/api/movies/?genre=Action
 ```
+
+### Documentation
+```bash
+http://0.0.0.0:8000/docs/
+```
